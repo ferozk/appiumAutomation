@@ -1,0 +1,8 @@
+{
+  "buildPath" : "data/home-maintenance.apk",
+  "deviceUDID": "",
+  "devicePlatform": "Android",
+  "deviceOSVersion": "11.0",
+  "deviceName": "Samsung",
+  "appiumServerURL": "http://127.0.0.1:4723/wd/hub"
+}
